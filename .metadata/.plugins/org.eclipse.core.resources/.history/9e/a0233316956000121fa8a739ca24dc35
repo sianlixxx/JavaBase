@@ -1,0 +1,33 @@
+package com.rose.FactoryMethod;
+
+import java.util.List;
+
+public class ClassUtils
+{
+	public static List<Class> getAllClassByInterface(Class c)
+	{
+		List<Class> returnClassList = new ArrayList<Class>();
+		if(c.isInterface())
+		{
+			String packageName = c.getPackage().getName();
+			try
+			{
+				List<Class> allClass = getClasses(packageName);
+				for(int i = 0; i < allClass.size(); i++)
+				{
+					if(c.isAssignableFrom(allClass.get(i)))
+					{
+						if(!c.equals(allClass).get(i))
+						{
+							returnClassList.add(allClass.get(i));
+						}
+					}
+				}
+				
+			} catch (Exception e)
+			{
+				// TODO: handle exception
+			}
+		}
+	}
+}

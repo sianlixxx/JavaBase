@@ -1,0 +1,7 @@
+DEBUG main com.rose.Bar - Did it again!
+DEBUG main test - This is debug message.
+INFO main test - This is info message.
+ERROR main test - This is error message.
+DEBUG main test - This is debug message.
+INFO main test - This is info message.
+ERROR main test - This is error message.

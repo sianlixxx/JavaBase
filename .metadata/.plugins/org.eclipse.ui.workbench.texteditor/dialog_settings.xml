@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="313" key="DIALOG_WIDTH"/>
+		<item value="197" key="DIALOG_Y_ORIGIN"/>
+		<item value="485" key="DIALOG_HEIGHT"/>
+		<item value="934" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="format" key="selection"/>
+		<list key="findhistory">
+			<item value="format"/>
+			<item value="private"/>
+			<item value="public"/>
+			<item value="super"/>
+			<item value="com.cbf4life"/>
+			<item value="TimeFormat"/>
+			<item value="package com.rose.Long;"/>
+		</list>
+		<list key="replacehistory">
+			<item value="com.rose"/>
+			<item value="converting_a_long_into_a_human_readable_string"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="230" key="DIALOG_Y_ORIGIN"/>
+		<item value="217" key="DIALOG_X_ORIGIN"/>
+	</section>
+</section>

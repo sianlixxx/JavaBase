@@ -1,0 +1,29 @@
+package com.miracle;
+
+public class MyThread extends Thread
+{
+
+	private int ticket = 10;
+	private String name;
+	public MyThread(String name)
+	{ 
+		this.name = name;
+	}
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args)
+	{
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void run()
+	{
+		// TODO Auto-generated method stub
+		super.run();
+	}
+	
+
+}

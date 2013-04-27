@@ -1,0 +1,33 @@
+package com.rose.TestSuite;
+
+import junit.framework.Test;
+import junit.framework.TestCase;
+import junit.framework.TestSuite;
+
+import com.rose.TestSuite.Test_suite.TestClassTwo;
+
+public class Per_Suite_Setup_and_Tear_Down extends TestCase
+{
+	public Per_Suite_Setup_and_Tear_Down(String method)
+	{
+		super(method);
+	}
+	public void testLongRunner()
+	{
+		assertEquals(2300, 50);
+	}
+	public void testShortTest() {
+	    assertEquals(140, 5);
+	  }
+
+	  public void testAnotherShortTest() {
+	    assertEquals(586, 10);
+	  }
+	  
+	  public static Test suite()
+	  {
+		  TestSuite suite = new TestSuite();
+		  suite.addTest(new TestClassTwo("testShortTest"));
+		    suite.addTest(new TestClassTwo("testAnotherShortTest"));
+	  }
+}

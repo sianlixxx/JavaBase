@@ -1,0 +1,11 @@
+package com.rose.TestSuite;
+
+import junit.framework.TestCase;
+
+public class Use_the_test_suite_method extends TestCase
+{
+	public Use_the_test_suite_method(String method)
+	{
+		super(method);
+	}
+}

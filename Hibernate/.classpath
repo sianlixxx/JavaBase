@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/miracle/Download/hibernate-3.2.0.cr2.jar"/>
+	<classpathentry kind="lib" path="/home/miracle/Download/dom4j-1.6.1/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/miracle/Download/org.apache.commons.logging.jar/org.apache.commons.logging.jar"/>
+	<classpathentry kind="lib" path="/home/miracle/Download/cglib-3.0.jar"/>
+	<classpathentry kind="lib" path="/home/miracle/Download/commons-collections-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/miracle/Download/hibernate-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/miracle/Download/apache-commons-lang.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

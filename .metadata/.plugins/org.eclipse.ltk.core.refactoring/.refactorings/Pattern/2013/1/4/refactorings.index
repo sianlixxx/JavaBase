@@ -1,0 +1,6 @@
+1358838764585	Rename package 'Composite'
+1358841900620	Delete element
+1358924834867	Extract method 'openWithoutLogic'
+1358924857674	Extract method 'stopWithoutLogic'
+1358924894283	Extract method 'runWithoutLogic'
+1358924989405	Extract method 'closeWithoutLogic'
