@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+/home/miracle/workspace/java_base/.metadata/.plugins/org.eclipse.jdt.core

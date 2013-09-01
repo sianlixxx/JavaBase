@@ -1,0 +1,4 @@
+这是一个测试克隆的项目
+    CloneableTest 是第一个简单的测试,主要测试克隆后的字节码, 地址, 地址上的内容.
+    User 和 Administator 测试克隆需要重写clone方法
+    BeanUtil 是采用序列化的方式代替克隆

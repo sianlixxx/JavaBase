@@ -1,0 +1,33 @@
+package com.miracle;
+
+public class Mythread1 implements Runnable
+{
+
+	private int ticket = 10;
+	private String name;
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args)
+	{
+		Mythread1 mt1 = new Mythread1("1号");
+		Mythread1 mt1 = new Mythread1("2号");
+		Mythread1 mt3 = new Mythread1("3号");
+	}
+
+	@Override
+	public void run()
+	{
+		for (int i = 0; i < 10; i++)
+		{
+			if (this.ticket > 0)
+			{
+				System.out.println(this.name + "卖票" + (--this.ticket));
+			}
+
+		}
+
+	}
+
+}

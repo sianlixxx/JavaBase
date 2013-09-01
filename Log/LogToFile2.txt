@@ -1,0 +1,2 @@
+一月 28, 2013 3:34:40 下午 com.rose.logformatter.Log1 main
+INFO: A message logged to the file

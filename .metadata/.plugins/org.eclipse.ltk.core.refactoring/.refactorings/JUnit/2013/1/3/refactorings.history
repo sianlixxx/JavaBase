@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring clone="true" comment="Infer generic type arguments on &apos;JUnit&apos;&#x0A;- Original project: &apos;JUnit&apos;&#x0A;- Original elements:&#x0A;     com.rose.TestSuite.Define_your_own_test_case_runner_with_reflection.java&#x0A;- Assume clone() returns an instance of the receiver type&#x0A;- Leave unconstrained type arguments raw" description="Infer generic type arguments" element1="/src&lt;com.rose.TestSuite{Define_your_own_test_case_runner_with_reflection.java" flags="6" id="org.eclipse.jdt.ui.infer.typearguments" leave="true" stamp="1358243734198" version="1.0"/>
+</session>

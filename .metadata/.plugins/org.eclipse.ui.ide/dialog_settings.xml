@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="168" key="DIALOG_Y_ORIGIN"/>
+		<item value="242" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="TaskPropertiesDialogSettings">
+		<item value="931" key="DIALOG_WIDTH"/>
+		<item value="160" key="DIALOG_Y_ORIGIN"/>
+		<item value="67" key="DIALOG_X_ORIGIN"/>
+		<item value="315" key="DIALOG_HEIGHT"/>
+		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="DialogMarkerPropertiesDialogSettings">
+		<item value="931" key="DIALOG_WIDTH"/>
+		<item value="160" key="DIALOG_Y_ORIGIN"/>
+		<item value="67" key="DIALOG_X_ORIGIN"/>
+		<item value="315" key="DIALOG_HEIGHT"/>
+		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+</section>

@@ -1,0 +1,22 @@
+package com.miracle;
+
+public class Mythread1 implements Runnable
+{
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args)
+	{
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void run()
+	{
+		// TODO Auto-generated method stub
+		
+	}
+
+}

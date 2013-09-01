@@ -1,0 +1,11 @@
+package com.rose.TestSuite;
+
+import junit.framework.TestCase;
+
+public class Define_your_own_test_case_runner_with_reflection extends TestCase
+{
+	public Define_your_own_test_case_runner_with_reflection(String method)
+	{
+		super(method);
+	}
+}

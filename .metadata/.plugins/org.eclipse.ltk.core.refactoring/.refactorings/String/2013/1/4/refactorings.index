@@ -1,0 +1,4 @@
+1358817498606	Extract local variable 'len'
+1358817643586	Extract method 'reverString'
+1358825410499	Rename package 'com.rose.StringStratEnd'
+1358909042134	Extract method 'pad'
